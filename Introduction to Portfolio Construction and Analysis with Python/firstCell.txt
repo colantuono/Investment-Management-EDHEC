@@ -1,0 +1,5 @@
+import os
+print(os.getcwd())
+os.chdir("C:/Users/joao.colantuono/Investment-Management-EDHEC/Introduction to Portfolio Construction and Analysis with Python/")
+import warnings
+warnings.filterwarnings("ignore")
